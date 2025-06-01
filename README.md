@@ -1,4 +1,4 @@
-# Hi there, I'm Sheddy 👋
+# Hi there👋
 
 Welcome to my GitHub profile! I'm passionate about building cool things with code, contributing to open source, and constantly learning.
 
