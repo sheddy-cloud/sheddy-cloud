@@ -23,12 +23,12 @@ Welcome to my GitHub profile! I'm passionate about building cool things with cod
 ---
 
 ## 🚀 About Me
+- 🔭 I’m currently working on: **a Flutter-based tour app**
+- 🌱 I’m currently learning: **MLflow and deep learning**
+- 💬 Ask me about: **JavaScript, APIs, and backend development**
+- 📫 How to reach me: **didasshedrack@gmail.com**
+- ⚡ Fun fact: **Sometimes I debug in my sleep 😴🐛**
 
-- 🔭 I’m currently working on: **[your project or tech here]**
-- 🌱 I’m currently learning: **[frameworks/languages]**
-- 💬 Ask me about: **JavaScript, APIs, backend stuff**
-- 📫 How to reach me: **[email or LinkedIn]**
-- ⚡ Fun fact: **[your fun fact here]**
 
 ---
 
