@@ -3,7 +3,7 @@
 I'm a Software Developer skilled in Flutter, Laravel, PHP, Vue.js, Python, Docker, and Cloud Deployment. Passionate about building scalable applications.
 
 ## 🛠️ Skills
-- Languages: Python, PHP, JavaScript
+- Languages: Python, PHP, JavaScript, Dart
 - Frameworks: Flutter, Laravel, Vue.js
 - Tools: Docker, Git, CI/CD
 
